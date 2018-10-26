@@ -78,17 +78,17 @@ Chi-square =  ((Thực tế – Kì vọng)^2 / Kì vọng)^1/2
 5. Thực hiện các bước tương tự với node Male.
 6. Tính tổng các giá trị Chi-square
 
-![chiq1|675x116](//fmlcb.s3.dualstack.us-east-2.amazonaws.com/original/2X/c/ca5f93632129f9720730181af1f00907f71fd243.png)
+![chiq1](image/part2_table1.png)
 
 **Phân nhánh theo thuộc tính Class** 
 
-![chiq2|677x115](//fmlcb.s3.dualstack.us-east-2.amazonaws.com/original/2X/3/322c8aaf474874147989e8972505e28972df3380.png)
+![chiq2](image/part2_table2.png)
 
 Ta nhận thấy Chi-Square Score cho **Gender** cao hơn **Class** , do đó việc phân nhánh sẽ dựa trên thuộc tính **Gender**
 
 ### Information Gain
 
-![Information_Gain_Decision_Tree2|632x235](//fmlcb.s3.dualstack.us-east-2.amazonaws.com/original/2X/7/761c7fc5ca71dc766b9bef748ea3634f1c12fc41.png)
+![Information_Gain_Decision_Tree2](image/part2_2.png)
 
 Entropy là chỉ số để đo độ hỗn loạn của dữ liệu.Entropy càng thấp thì độ hỗn loạn càng thấp, nghĩa là việc phân nhánh càng cho kết quả tốt. Nếu mẫu hoàn toàn tính khiết thì Entropy bằng 0 và nếu mẫu được chia đều 50% – 50% thì Entropy bằng 1.
 
